@@ -16,3 +16,8 @@ Erase your terminal client's history when you're done ( `history -c` or equivale
 ## Build & run
 
 Just open `pass.xcodeproj`  and go to Product>Run or [Command] + [R]  
+
+
+## Requirements
+
+- macOS 10.13 
